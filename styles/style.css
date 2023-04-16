@@ -1,0 +1,18 @@
+
+/* Gradient background */
+body {
+  background: linear-gradient(90deg, #8CBEB2 0%, #F2EBBF 100%);
+}
+
+/* Text formatting */
+h1, h2, p {
+  color: #333333;
+  font-family: Arial;
+}
+
+/* Time, Date, and Weather formatting */
+.date, .time, .weather {
+  font-size: 20px;
+  font-weight: bold;
+  margin-top: 20px;
+}
